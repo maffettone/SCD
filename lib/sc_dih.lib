@@ -1,0 +1,48 @@
+Kindly borrowed from http://www.ccp14.ac.uk/index.html
+SIDECHAIN       AXIS    ATOMS USED TO DEFINE ANGLE      ZERO VALUE      FORMAL RANGE
+CHI1
+ARG     CA,CB   N,CA,CB,CG      CG cis to N
+ASN     CA,CB   N,CA,CB,CG      CG cis to N
+ASP     CA,CB   N,CA,CB,CG      CG cis to N
+CYS     CA,CB   N,CA,CB,SG      SG cis to N
+GLN     CA,CB   N,CA,CB,CG      CG cis to N
+GLU     CA,CB   N,CA,CB,CG      CG cis to N
+HIS     CA,CB   N,CA,CB,CG      CG cis to N
+ILE     CA,CB   N,CA,CB,CG1     CG1 cis to N
+LEU     CA,CB   N,CA,CB,CG      CG cis to N
+LYS     CA,CB   N,CA,CB,CG      CG cis to N
+MET     CA,CB   N,CA,CB,CG      CG cis to N
+PHE     CA,CB   N,CA,CB,CG      CG cis to N
+PRO     CA,CB   N,CA,CB,CG      CG cis to N
+SER     CA,CB   N,CA,CB,OG      OG cis to N
+THR     CA,CB   N,CA,CB,OG1     OG1 cis to N
+TRP     CA,CB   N,CA,CB,CG      CG cis to N
+TYR     CA,CB   N,CA,CB,CG      CG cis to N
+VAL     CA,CB   N,CA,CB,CG1     CG1 cis to N
+CHI2------------------------------------------
+ARG     CB,CG   CA,CB,CG,CD     CD cis to CA
+ASN     CB,CG   CA,CB,CG,OD1    OD1 cis to C
+ASP     CB,CG   CA,CB,CG,OD1    OD1 cis to C
+GLN     CB,CG   CA,CB,CG,CD     CD cis to CA
+GLU     CB,CG   CA,CB,CG,CD     CD cis to CA
+HIS     CB,CG   CA,CB,CG,ND1    ND1 cis to C
+ILE     CB,CG1  CA,CB,CG1,CD1   CD1 cis to CA
+LEU     CB,CG   CA,CB,CG,CD1    CD1 cis to C
+LYS     CB,CG   CA,CB,CG,CD     CD cis to CA
+MET     CB,CG   CA,CB,CG,SD     SD cis to CA
+PHE     CB,CG   CA,CB,CG,CD1    CD1 cis to C
+PRO     CB,CG   CA,CB,CG,CD     CD cis to CA
+TRP     CB,CG   CA,CB,CG,CD1    CD1 cis to C
+TYR     CB,CG   CA,CB,CG,CD1    CD1 cis to C
+CHI3------------------------------------------
+ARG     CG,CD   CB,CG,CD,NE     NE cis to CB
+GLN     CG,CD   CB,CG,CD,OE1    OE1 cis to C
+GLU     CG,CD   CB,CG,CD,OE1    OE1 cis to C
+LYS     CG,CD   CB,CG,CD,CE     CE cis to CB
+MET     CG,SD   CB,CG,SD,CE     CE cis to CB
+CHI4------------------------------------------
+ARG     CD,NE   CG,CD,NE,CZ     CZ cis to CG
+LYS     CD,CE   CG,CD,CE,NZ     NZ cis to CG
+CHI5------------------------------------------
+ARG     NE,CZ   CD,NE,CZ,NH1    NH1 cis to C
+END
